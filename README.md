@@ -21,7 +21,7 @@ Welcome to my project! This is a simple tool I built to search through a movie d
 1. **Clone the Repo**  
    First, grab the code from GitHub:
    ```bash
-   git clone https://github.com/yourusername/semantic-search-faiss.git
+   git clone https://github.com/bereketo/semantic-search.git
    cd semantic-search
    ```
 2. **Set up your Environment**
