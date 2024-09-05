@@ -3,10 +3,9 @@ import pandas as pd
 data_path = "./data/imdb_top_1000.csv"
 
 
-def load_data(df):
+def load_data(data_path):
     """Load data from csv"""
-    df = pd.read_csv(data_path)
-    return df
+    return pd.read_csv(data_path)
 
 
 def preprocess_data(df):
@@ -23,4 +22,5 @@ def preprocess_data(df):
             "Star4",
         ]
     ]
+
     return df_selected
