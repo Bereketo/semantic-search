@@ -43,3 +43,8 @@ Welcome to my project! This is a simple tool I built to search through a movie d
 In this project, I have integrated IVG (Inverted File System with Graph) to significantly enhance the speed and performance of the nearest neighbor similarity search. IVG allows for faster, more scalable searches by efficiently handling large datasets and complex queries, solving the slowness that can occur with traditional methods.
 ## Screenshot
 
+![Image description](images/movie-1.png)
+![Image description](images/movie-2.png)
+![Image description](images/movie-3.png)
+
+
